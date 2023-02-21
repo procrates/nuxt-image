@@ -9,3 +9,6 @@ sw.*
 .vscode
 .vercel
 .output
+
+# Local Netlify folder
+.netlify

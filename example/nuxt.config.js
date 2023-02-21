@@ -6,6 +6,7 @@ export default {
     '@nuxt/image-edge'
   ],
   image: {
+    provider: 'netlify',
     domains: [
       'https://images.unsplash.com',
       'https://source.unsplash.com'
